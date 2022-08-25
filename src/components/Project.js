@@ -46,22 +46,28 @@ const Project = () => {
                                             className="mySwiper"
                                             autoplay={{delay: 5000}}>
                                                 <SwiperSlide>
-                                                        <img className='pic_img' src='images/img1.png' alt='' />
+                                                        <img className='pic_img' src='images/batman1.png' alt='' />
                                                 </SwiperSlide>    
                                                 <SwiperSlide>
-                                                        <img className='pic_img' src='images/img2.png' alt='' />
+                                                        <img className='pic_img' src='images/batman2.png' alt='' />
                                                 </SwiperSlide>  
                                                 <SwiperSlide>
-                                                        <img className='pic_img' src='images/img3.png' alt='' />
+                                                        <img className='pic_img' src='images/batman3.png' alt='' />
                                                 </SwiperSlide>  
                                                 <SwiperSlide>
-                                                        <img className='pic_img' src='images/img4.png' alt='' />
+                                                        <img className='pic_img' src='images/batman4.png' alt='' />
                                                 </SwiperSlide>  
                                                 <SwiperSlide>
-                                                        <img className='pic_img' src='images/img5.png' alt='' />
+                                                        <img className='pic_img' src='images/batman5.png' alt='' />
                                                 </SwiperSlide>  
                                                 <SwiperSlide>
-                                                        <img className='pic_img' src='images/img6.png' alt='' />
+                                                        <img className='pic_img' src='images/batman6.png' alt='' />
+                                                </SwiperSlide>  
+                                                <SwiperSlide>
+                                                        <img className='pic_img' src='images/batman7.png' alt='' />
+                                                </SwiperSlide>  
+                                                <SwiperSlide>
+                                                        <img className='pic_img' src='images/batman8.png' alt='' />
                                                 </SwiperSlide>  
                                         </Swiper>
                                         </div>
