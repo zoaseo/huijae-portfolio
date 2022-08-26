@@ -150,3 +150,15 @@
     font-weight: 400;
     font-size: 1rem;
   }
+
+  #skell {
+    animation: skellskell 3s forwards;
+    scale: 0;
+    opacity: 0;
+  }
+  @keyframes skellskell {
+    100% {
+      scale: 1;
+      opacity: 1;
+    }
+  }

@@ -7,7 +7,7 @@ const About = () => {
     return (
         <div>           
             <Header /> 
-            <div className='About'>
+            <div id='skell' className='About'>
                 <h2>ABOUT ME</h2>
                 <div className='About_inner'>
                     <div className='Masthead'>
