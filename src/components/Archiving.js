@@ -8,7 +8,7 @@ const Archiving = () => {
         <div>
             <Header />
             <div className='Archiving'>
-                <h2>Archiving</h2> 
+                <h2>ARCHIVING</h2> 
                 <article className='Archiving_Archiving'>
                     <div className='Archiving_content'>
                         {/* <div className='SectionTitle'>

@@ -16,7 +16,7 @@ const Project = () => {
         <div>
             <Header />
             <div className='Project_box'>
-                <h2>Project</h2> 
+                <h2>PROJECTS</h2> 
                 <article className='Profects_Projects'>
                     <div className='Projects_content'>
                         {/* <div className='SectionTitle'>

@@ -11,7 +11,7 @@ const Career = () => {
         <div>
             <Header />
             <div className='Career'>
-                <h2>Career</h2> 
+                <h2>CAREER</h2> 
                 <article className='Career_Career'>
                     <div className='Career_content'>
                         {/* <div className='SectionTitle'>
@@ -54,6 +54,9 @@ const Career = () => {
                                         <li>axios 라이브러리를 사용하여 get, post, put, delete 등의 메소드로 API를 요청할 수 있음</li>
                                         <li>이미지를 업로드하여 관리하는 스토리지 서버인 multer를 활용할 수 있음</li>
                                         <li>쿠키와 세션 두 방법을 사용하여 로그인, 회원가입을 구현함</li>
+                                    </ul>
+                                    <ul className='Career_works'>
+                                        <h4 className='Career_works_title'>node.js</h4>
                                         <li>bcrypt 해시 함수를 이용하여 웹페이지 사용자 비밀번호를 암호화해서 저장</li>
                                         <li>AWS MySQL과 Express(NodeJS 웹 애플리케이션 프레임워크) 연동 후 데이터 관리</li>
                                         <li>미들웨어 Cors를 통해 Cors 이슈를 해결</li>
