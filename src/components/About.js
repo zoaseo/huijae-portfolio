@@ -79,7 +79,7 @@ const About = () => {
                                                 주소지
                                             </div>
                                             <div className='AboutMe_field_value'>
-                                                울산광역시
+                                                서울특별시 영등포구
                                             </div>
                                         </div>
                                     </div>
